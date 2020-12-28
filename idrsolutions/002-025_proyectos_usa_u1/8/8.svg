@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 909 1286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_8"><path d="M0,1286.2V0H909.4V1286.2Z"/></clipPath>
+<clipPath id="c1_8"><path d="M545.8,426L493.7,191l235,-52.1l52.1,235L545.8,426Z"/></clipPath>
+<clipPath id="c2_8"><path d="M866.8,476.7L626.7,459.9L643.3,222.1l240.2,16.8l-2.2,30.8l-14.5,207Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_8{
+fill: #597642;
+}
+.g1_8{
+fill: none;
+stroke: #597642;
+stroke-width: 3.611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_8{
+fill: #FFFFFF;
+}
+.g3_8{
+fill: #C6C8B3;
+}
+.g4_8{
+fill: none;
+stroke: #000000;
+stroke-width: 1.527;
+stroke-linecap: round;
+stroke-linejoin: round;
+stroke-dasharray: 0,5;
+}
+.g5_8{
+fill: none;
+stroke: #000000;
+stroke-width: 1.527;
+stroke-linecap: round;
+stroke-linejoin: round;
+}
+.g6_8{
+fill: #C7C8CA;
+}
+.g7_8{
+fill: none;
+stroke: #000000;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+]]></style>
+</defs>
+<path d="M0,56.3V89.9Z" class="g0_8"/>
+<path d="M0,89.9H853.1V56.3H0V89.9Z" class="g0_8"/>
+<path clip-path="url(#c0_8)" d="M-853,138.5H853.1" class="g1_8"/>
+<path d="M756,149.8h97.1V123.5H756v26.3Z" class="g2_8"/>
+<path d="M683.6,787.3H853.1V687.5H683.6v99.8Z" class="g3_8"/>
+<path d="M161.4,511.6H641.7" class="g4_8"/>
+<path d="M156.8,511.6v0m487.2,0v0" class="g5_8"/>
+<path d="M159.4,536.8H641.7" class="g4_8"/>
+<path d="M154.8,536.8v0m489.2,0v0" class="g5_8"/>
+<path d="M182.4,562H641.7" class="g4_8"/>
+<path d="M177.9,562v0M644,562v0" class="g5_8"/>
+<path d="M156.7,587.2h485" class="g4_8"/>
+<path d="M152.1,587.2v0m491.9,0v0" class="g5_8"/>
+<path d="M168.4,612.4H641.7" class="g4_8"/>
+<path d="M163.8,612.4v0m480.2,0v0" class="g5_8"/>
+<path d="M203.1,637.6H641.7" class="g4_8"/>
+<path d="M198.6,637.6v0m445.4,0v0" class="g5_8"/>
+<path d="M203.4,662.8H641.7" class="g4_8"/>
+<path d="M198.8,662.8v0m445.2,0v0" class="g5_8"/>
+<path d="M202.4,688H641.7" class="g4_8"/>
+<path d="M197.8,688v0M644,688v0" class="g5_8"/>
+<path d="M202.7,713.2h439" class="g4_8"/>
+<path d="M198.1,713.2v0m445.9,0v0" class="g5_8"/>
+<path d="M179.7,738.5h462" class="g4_8"/>
+<path d="M175.2,738.5v0m468.8,0v0" class="g5_8"/>
+<path d="M180,763.7H641.7" class="g4_8"/>
+<path d="M175.4,763.7v0m468.6,0v0" class="g5_8"/>
+<path d="M201.9,788.9H641.7" class="g4_8"/>
+<path d="M197.3,788.9v0m446.7,0v0" class="g5_8"/>
+<path d="M110.8,468h187V426h-187v42Z" class="g6_8"/>
+<path d="M451.8,881.3H709.4" class="g4_8"/>
+<path d="M447.2,881.3v0m264.4,0v0" class="g5_8"/>
+<path d="M139.6,906.5H709.3" class="g4_8"/>
+<path d="M135,906.5v0m576.6,0v0" class="g5_8"/>
+<path d="M602.2,931.7H709.4" class="g4_8"/>
+<path d="M597.7,931.7v0m113.9,0v0" class="g5_8"/>
+<path d="M334.6,956.9H709.3" class="g4_8"/>
+<path d="M330,956.9v0m381.6,0v0" class="g5_8"/>
+<path d="M139.6,982.1H709.3" class="g4_8"/>
+<path d="M135,982.1v0m576.6,0v0" class="g5_8"/>
+<path d="M199.6,1032.5H709.4" class="g4_8"/>
+<path d="M195.1,1032.5v0m516.5,0v0" class="g5_8"/>
+<path d="M139.6,1057.8H709.3" class="g4_8"/>
+<path d="M135,1057.8v0m576.6,0v0" class="g5_8"/>
+<path d="M237.2,1108.2H709.4" class="g4_8"/>
+<path d="M232.6,1108.2v0m479,0v0" class="g5_8"/>
+<path d="M139.6,1133.4H709.3" class="g4_8"/>
+<path d="M135,1133.4v0m576.6,0v0" class="g5_8"/>
+<g clip-path="url(#c0_8)">
+<path d="M-853,1233.1H0m0,0H853.1" class="g7_8"/>
+<image preserveAspectRatio="none" x="524" y="177" width="215" height="225" xlink:href="img/1.png"/>
+</g>
+<image clip-path="url(#c1_8)" preserveAspectRatio="none" x="494" y="139" width="287" height="287" xlink:href="img/2.png"/>
+<image clip-path="url(#c0_8)" preserveAspectRatio="none" x="663" y="260" width="205" height="218" xlink:href="img/3.png"/>
+<image clip-path="url(#c2_8)" preserveAspectRatio="none" x="627" y="222" width="256" height="255" xlink:href="img/4.png"/>
+</svg>
