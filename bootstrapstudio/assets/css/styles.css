@@ -2,19 +2,37 @@ strong {
 }
 
 .first-letter > strong {
-  padding-left: 5px;
-  padding-right: 10px;
+  font-family: Campton-Medium_hc;
+  /*padding-left: 5px;*/
+  padding-right: 5px;
   float: left;
   position: relative;
-  top: -0.3em;
+  top: -0.25em;
   margin-bottom: -0.5em;
   /*margin-left: 0px;*/
   /*margin-right: 0px;*/
-  font-size: 70px;
+  font-size: 72px;
 }
 
 .image-border {
-  border: 8px solid white;
+  border: 5px solid white;
   box-shadow: 1px 1px 9px darkgrey;
+}
+
+.eng-input {
+  border-radius: 5px;
+  max-width: 400px;
+  height: 35px;
+  min-width: 200px;
+  border: 1px solid darkgrey;
+}
+
+.eng-textarea {
+  width: 100%;
+  border-radius: 5px;
+  /*max-width: 400px;*/
+  height: 75px;
+  min-width: 200px;
+  border: 1px solid darkgrey;
 }
 
