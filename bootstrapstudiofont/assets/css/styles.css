@@ -13,20 +13,16 @@
   box-shadow: 1px 1px 9px darkgrey;
 }
 
-.eng-input {
-  border-radius: 5px;
-  max-width: 400px;
-  height: 35px;
-  min-width: 200px;
-  border: 1px solid darkgrey;
-}
-
-.eng-textarea {
+.root .page-container .eng-textbox, .root .page-container .eng-textarea {
+  border: 1px solid darkgray;
+  display: inline-block;
+  background: white;
   width: 100%;
-  border-radius: 5px;
-  height: 75px;
-  min-width: 200px;
-  border: 1px solid darkgrey;
+  height: 100%;
+  min-width: 160px;
+  box-sizing: border-box;
+  border-radius: 7px;
+  min-height: 30px;
 }
 
 .root {
@@ -59,7 +55,7 @@
 }
 
 body .page-container .page-body {
-  padding: 0 8px;
+  padding: 0 16px;
 }
 
 @media screen and (min-width: 540px) {
@@ -75,8 +71,14 @@ body .page-container .page-body {
 }
 
 @media only screen and (max-width: 540px) {
+  .margin-sm-top-8 {
+    margin-top: 16px;
+  }
+}
+
+@media only screen and (max-width: 540px) {
   .page-container {
-    padding: 0 16px 48px 16px;
+    padding: 0 0px 48px 0px;
   }
 }
 
@@ -125,7 +127,7 @@ body .pages .section {
 }
 
 .bottom-margin-8 {
-  margin-bottom: 8px;
+  margin-bottom: 16px;
 }
 
 .question-set-heading {
@@ -142,5 +144,9 @@ body .pages .section {
   margin-bottom: 8px;
   font-weight: bold;
   color: #000000;
+}
+
+.eng-input-indentation {
+  margin-left: 18px;
 }
 
