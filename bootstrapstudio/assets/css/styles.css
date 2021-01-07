@@ -123,3 +123,24 @@ body .pages .section {
   padding: 4px;
 }
 
+.bottom-margin-8 {
+  margin-bottom: 8px;
+}
+
+.question-set-heading {
+  color: #B28F04;
+  font-family: Campton-ExtraBold_3uu;
+  margin-bottom: 8px;
+}
+
+.question {
+  margin-bottom: 16px;
+}
+
+.question-text {
+  margin-bottom: 8px;
+  font-weight: 500;
+  font-family: Campton-SemiBold_h3;
+  color: #000000;
+}
+
