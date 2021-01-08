@@ -1,10 +1,9 @@
 .first-letter > strong {
-  font-family: Campton-Medium_hc;
   padding-right: 5px;
   float: left;
   position: relative;
-  top: -0em;
-  margin-bottom: -0.2em;
+  top: -0.23em;
+  margin-bottom: -0.5em;
   font-size: 72px;
 }
 
@@ -13,7 +12,8 @@
   box-shadow: 1px 1px 9px darkgrey;
 }
 
-.root .page-container .eng-textbox, .root .page-container .eng-textarea {
+.root .page-container .eng-textbox,
+.root .page-container .eng-textarea {
   border: 1px solid darkgray;
   display: inline-block;
   background: white;
@@ -26,7 +26,7 @@
 }
 
 .root {
-  background-color: #D5B700;
+  background-color: #d5b700;
   padding: 16px;
   font: 400 16px "Campton", "Source Sans Pro", sans-serif;
 }
@@ -132,7 +132,7 @@ body .pages .section {
 
 .question-set-heading {
   font-weight: bold;
-  color: #B28F04;
+  color: #b28f04;
   margin-bottom: 8px;
 }
 
@@ -153,4 +153,3 @@ body .pages .section {
 .question-number {
   margin-right: 8px;
 }
-
